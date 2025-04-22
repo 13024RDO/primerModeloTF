@@ -56,4 +56,4 @@ MIT
 
 ---
 
-Hecho con ❤️ usando TensorFlow.js.
+
